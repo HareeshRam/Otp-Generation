@@ -1,0 +1,81 @@
+*{
+    background-color:rgb(8, 4, 4);
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    text-shadow: 0 0 20px grey;
+}
+.baby{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+   border: 2px solid gray;
+   height: 300px;
+   width: 600px; 
+   text-align:center;
+   /* align-items: center; */
+   padding: 50px;
+   background-color: burlywood;
+   border-radius: 10px;
+  box-shadow: 0 0 20px gray;
+  
+}
+.inp{
+    margin: 30px;
+    background-color: burlywood ;
+
+}
+input{
+  /* margin-left: 20px; */
+  background-color: burlywood ;
+}
+.inp1{
+   margin-left: 35px;
+   background-color: burlywood ;
+   height: 30px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    background-color: bisque;
+    outline: none;
+}
+h3{
+    color:white;
+    background-color: burlywood ;
+  /* border: 2px solid yellow; */
+  box-shadow: 0 0 20px red;
+  border-radius: 5px;
+  background-color:rgb(239, 15, 135);
+  text-shadow: 0 0 20px black;
+}
+label{
+    background-color: burlywood ;
+text-shadow: 0 0 15px;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-weight: 700;
+color: crimson;
+}
+span{
+    background-color: burlywood ;
+    color: crimson;
+}
+.phone{
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+    background-color: bisque;
+    outline: none;
+}
+button{
+    border-radius: 5px;
+    box-shadow: 0 0 20px black;
+    border: none;
+    background-color: blueviolet;
+}
+h2{
+    color: white;
+}
